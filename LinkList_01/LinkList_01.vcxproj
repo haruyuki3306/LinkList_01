@@ -110,11 +110,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="linear\Queue.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="ParserFrame.h" />
     <ClInclude Include="Queue.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="linear\Queue.cpp" />
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ParserFrame.cpp" />
