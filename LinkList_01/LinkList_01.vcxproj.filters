@@ -24,7 +24,7 @@
     <ClInclude Include="ParserFrame.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="linear\Queue.h">
+    <ClInclude Include="linear\Queue2.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -41,7 +41,7 @@
     <ClCompile Include="ParserFrame.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="linear\Queue.cpp">
+    <ClCompile Include="linear\Queue2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
